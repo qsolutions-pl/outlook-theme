@@ -1,4 +1,1 @@
-outlook-theme
-=============
-
-Magento Adminhtml Outlook theme
+![Magento Admin Theme](http://screencloud.net/v/55nj)

@@ -1,1 +1,1 @@
-![Magento Admin Theme](http://screencloud.net/v/55nj)
+![Magento Adminhtml Modern  Theme](http://screencloud.net/v/55nj)

@@ -107,6 +107,7 @@ skin/install/
 var/
 .htaccess
 .htaccess.sample
-.api.php
+api.php
 media
 media/
+app/etc/local.xml
